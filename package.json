@@ -1,0 +1,7 @@
+{
+  "name": "goal-widget-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "@notionhq/client": "^2.2.17"
+  }
+}
